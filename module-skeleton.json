@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-localization-dart-mobile",
+  "capabilityKey": "planned:cms:localization",
+  "presentation": "dart-mobile",
+  "package": "module_cms_localization_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/cms/nextjs/localization.md",
+  "presentationPlan": "projects/cms/features/localization.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
